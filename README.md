@@ -8,7 +8,7 @@
     - Advance Programming ⚡
     - Data structures and algorithms 🧠👨‍💻
 - 🌱 I’m currently learning a little of everything
-- 😄 I’m looking to collaborate on open source proyects
+- 😄 I’m looking to collaborate on open source projects
 
 
 ### Languages:
