@@ -1,4 +1,4 @@
-### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!, I'm Ignacio Porte 👋
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Ignacio Porte 👋
 
 ## I'm a Student, Teacher assistant and Developer
 
