@@ -44,7 +44,7 @@
 
 <div align="center">
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioPorte)](https://github.com/IgnacioPorte/github-readme-stats)
+ [![Ignacio Porte's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioPorte)](https://github.com/IgnacioPorte/github-readme-stats)
 
 <br>
 
