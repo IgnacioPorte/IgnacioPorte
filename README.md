@@ -36,8 +36,7 @@
 
 <div align="center">
 
- [![Ignacio Porte's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioPorte)](https://github.com/IgnacioPorte/github-readme-stats)
-
+![Ignacio Porte's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioPorte&count_private=true&show_icons=true&theme=tokyonight)
 <br>
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or you want to collaborate with me. <br>
