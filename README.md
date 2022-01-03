@@ -1,8 +1,8 @@
-### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Ignacio Porte 👋
+### Hello there, I'm Ignacio Porte 👋
 
 ## I'm a Student, Teacher assistant and Developer
 
-- 🤓 I'm currently studying Software Engineering at the Pontific Catholic University of Chile
+- 🤓 I'm currently studying Software Engineering at the Pontifical Catholic University of Chile
 - 🔭 I've worked and am currently working on the assistantships of
     - Introduction to Programming 💻
     - Advance Programming ⚡
