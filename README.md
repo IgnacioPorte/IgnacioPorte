@@ -7,6 +7,7 @@
     - Introduction to Programming 💻
     - Advance Programming ⚡
     - Data structures and algorithms 🧠👨‍💻
+    - Software Engineering 💎
 - 🌱 I’m currently learning a little of everything
 - 😄 I’m looking to collaborate on open source projects
 
