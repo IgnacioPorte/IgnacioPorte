@@ -3,7 +3,7 @@
 ## I'm a Student, Teacher assistant and Developer
 
 # 💫 About Me:
-🤓 I'm currently studying Software Engineering at the "Pontificia Universidad Católica de Chile"<br>🔭 Nowadays I 'm working on Tuki, a drinking game mobile app and some Real Estate projects, also I have worked in the assistantships of:<br>
+🤓 I'm currently working at [@Buda.com](https://www.buda.com/) and studying Software Engineering at the "Pontificia Universidad Católica de Chile"<br>🔭 Nowadays I 'm working on Tuki, a drinking game mobile app and some Real Estate projects, also I have worked in the assistantships of:<br>
 - Introduction to Programming 💻
 - Advance Programming ⚡
 - Data structures and algorithms 🧠👨‍💻
@@ -16,9 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IgnacioPorte&theme=nightowl&hide_border=false)<br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-porte-stefoni-93a12b20b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-porte) 
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
-Last Edited on: 02/04/2023
+Last Edited on: 15/03/2024
